@@ -1,11 +1,9 @@
 
 
-Readme shifkafathi · MD
+Readme final · MD
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,50:7873f5,100:4ade80&height=230&section=header&text=Hi,%20I%27m%20Shifka%20Masoodh%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Designer%20%E2%80%A2%20Learner&descAlignY=58&descSize=18" width="100%" alt="header"/> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6EC4&center=true&vCenter=true&width=650&lines=IT+Undergraduate+%40+University+of+Moratuwa+%F0%9F%8E%93;Learning+Full+Stack+Development+%F0%9F%9A%80;Designing+in+Figma+%F0%9F%8E%A8;Building+with+React+%E2%9A%9B%EF%B8%8F;Always+Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" /> </p>
 👋 About Me:
-🎓 Studying IT at University of Moratuwa
-💻 Learning Full Stack Development
-🤝 Open to collaborate on projects
+<p> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=600&color=7873F5&width=650&height=150&vCenter=true&multiline=true&repeat=false&lines=%F0%9F%8E%93+Studying+IT+at+University+of+Moratuwa;%F0%9F%92%BB+Learning+Full+Stack+Development;%F0%9F%8E%A8+Designing+UIs+in+Figma+and+building+with+React;%F0%9F%A4%9D+Open+to+collaborate+on+projects" alt="About Me: Studying IT at University of Moratuwa. Learning Full Stack Development. Designing UIs in Figma and building with React. Open to collaborate on projects." /> </p>
 🌐 Connect & Collaborate:
 <p> <a href="https://www.linkedin.com/in/fathima-shifka-ba81b0400"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://github.com/ShifkaFathi"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> </p>
 💻 Technology Stack:
